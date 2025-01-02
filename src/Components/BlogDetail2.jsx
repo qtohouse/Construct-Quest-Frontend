@@ -14,7 +14,7 @@ const BlogDetail2 = () => {
           <div className="body-blog">
             {/* <img class="d-block " src="/public/images/slide-5.jpg" alt="First slide"/> */}
             <img
-            //   src="/images/blog-detail-2.jpg"
+            //   src="./images/blog-detail-2.jpg"
               src="./images/blog-detail-2.jpg"
               alt="blog-detail-2"
               className="blog-detail-img"
