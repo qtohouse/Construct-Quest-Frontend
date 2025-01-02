@@ -15,7 +15,7 @@ const Register = () => {
         <img
           className="register-icons"
           alt="lock icon"
-          src="/images/register-icon.png"
+          src="./images/register-icon.png"
         />
       </div>
       <div className="register-heading">Register Now</div>

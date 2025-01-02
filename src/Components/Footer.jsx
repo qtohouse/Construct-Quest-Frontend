@@ -19,7 +19,7 @@ const Footer = () => {
                 <img
                   className="footer-main-logo"
                   alt="construct quest logo"
-                  src="/images/construct-quest-logo-white.png"
+                  src="./images/construct-quest-logo-white.png"
                 />
               </a>
             </div>
@@ -80,28 +80,28 @@ const Footer = () => {
                     <img
                       className="icons"
                       alt="linkedin"
-                      src="/images/linkedin-icon.png"
+                      src="./images/linkedin-icon.png"
                     />
                   </a>
                   <a href="https://www.facebook.com/people/Construct-Quest/61560306973135/">
                     <img
                       className="icons"
                       alt="facebook"
-                      src="/images/facebook-icon.png"
+                      src="./images/facebook-icon.png"
                     />
                   </a>
                   <a href="https://www.instagram.com/constructquest/">
                     <img
                       className="icons"
                       alt="insatgram"
-                      src="/images/instagram-icon.png"
+                      src="./images/instagram-icon.png"
                     />
                   </a>
                   <a href="https://x.com/ConstructQuest">
                     <img
                       className="icons"
                       alt="twitter"
-                      src="/images/twitter-icon.png"
+                      src="./images/twitter-icon.png"
                     />
                   </a>
                 </div>

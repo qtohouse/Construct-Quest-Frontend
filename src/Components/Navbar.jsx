@@ -37,7 +37,7 @@ const Navbar = () => {
             {/* Cart Button */}
             <button type="button" className="btn cartb vertical-align-btn ">
               <div className="CI">
-                <img className="icons" src="/images/carticon.png" alt="" />
+                <img className="icons" src="./images/carticon.png" alt="" />
                 <span>No Item</span>
                 <a href="/">
                   <img
@@ -142,13 +142,13 @@ const Navbar = () => {
                   >
                     Bid Calender
                   </NavLink>
-                  <NavLink
+                  <div
                     // to=""
                     className="nav-item nav-link"
-                    activeClassName="active"
+                    // activeClassName="active"
                   >
                     Resources
-                  </NavLink>
+                  </div>
                   {/* Dropdown Menu */}
                   <div className="nav-item dropdown">
                     <a

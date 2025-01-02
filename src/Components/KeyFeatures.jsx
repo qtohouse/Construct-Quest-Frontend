@@ -26,7 +26,7 @@ const KeyFeatures = () => {
                       <div className="">
                         <img
                           className="icons"
-                          src="/images/search-filter-icon.png"
+                          src="./images/search-filter-icon.png"
                           alt=""
                         />
                       </div>
@@ -49,7 +49,7 @@ const KeyFeatures = () => {
                       <div className="">
                         <img
                           className="icons"
-                          src="/images/project-insight-icon.png"
+                          src="./images/project-insight-icon.png"
                           alt=""
                         />
                       </div>
@@ -73,7 +73,7 @@ const KeyFeatures = () => {
                       <div className="">
                         <img
                           className="icons"
-                          src="images/reporting-icon.png"
+                          src="./images/reporting-icon.png"
                           alt=""
                         />
                       </div>
@@ -98,9 +98,9 @@ const KeyFeatures = () => {
         </div>
         <div className="col-xl-6 wow fadeInLeft">
           <div className="rounded h-100">
-            {/* <img src="images/slide-1.jpg" class="image-style"   alt="" /> */}
+            {/* <img src="./images/slide-1.jpg" class="image-style"   alt="" /> */}
             <img
-              src="/images/key features.png"
+              src="./images/key features.png"
               alt="key features"
               className="image-style"
             />

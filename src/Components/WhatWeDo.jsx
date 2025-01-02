@@ -8,9 +8,9 @@ const WhatWeDo = () => {
   <div className="container ">
     <div className="row">
       <div className="col-md-6">
-        {/* <img src="/images/slide-1.jpg" class="img" alt="Buildings" /> */}
+        {/* <img src="./images/slide-1.jpg" class="img" alt="Buildings" /> */}
         <img
-          src="/images/what we Do.png"
+          src="./images/what we Do.png"
           alt="what we Do"
           className="what-we-do"
         />

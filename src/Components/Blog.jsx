@@ -47,7 +47,7 @@ const Blog = () => {
       <div className="col-xl-6 col-12">
         <div className="media media-news">
           <img
-            src="images/blog-detail-2.jpg"
+            src="./images/blog-detail-2.jpg"
             alt="blog-detail-2"
             className="media-img"
           />
