@@ -6,7 +6,7 @@ const Privacy = () => {
   return (
 <>
 
-<>
+
   <div className="privacytop privacytop-img">
     <div className="color-gradient-privacytop">
       <h2>Privacy Policy</h2>
@@ -135,7 +135,7 @@ const Privacy = () => {
       with your information.
     </p>
   </div>
-</>
+
 
 </>
 
