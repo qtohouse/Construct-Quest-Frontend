@@ -410,7 +410,11 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
+<<<<<<< HEAD
 background-image: url('assets/images/register.png');
+=======
+background-image: url('@/assets/images/register.png');
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 background-size: cover;
 background-repeat: no-repeat;
 filter: grayscale(100%);
@@ -641,7 +645,11 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
+<<<<<<< HEAD
 background-image: url('assets/images/forget password.png');
+=======
+background-image: url('@/assets/images/forget password.png');
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 background-size: cover;
 background-repeat: no-repeat;
 filter: grayscale(100%);
@@ -892,7 +900,11 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
+<<<<<<< HEAD
 background-image: url('assets/images/Login.png');
+=======
+background-image: url('@/assets/images/Login.png');
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 background-size: cover;
 background-repeat: no-repeat;
 filter: grayscale(100%);
@@ -1093,7 +1105,11 @@ font-weight: 700;
 
 .contact-img::before {
   content: '';
+<<<<<<< HEAD
   background:  url('assets/images/contact-us.png') center bottom no-repeat;
+=======
+  background:  url('@/assets/images/contact-us.png') center bottom no-repeat;
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
   filter: grayscale(100%);
   position: absolute;
   top: 0;
@@ -1188,7 +1204,11 @@ height: 270px;
 
 .services-img::before {
 content: '';
+<<<<<<< HEAD
 background: url('assets/images/our services-top.png') center bottom no-repeat;
+=======
+background: url('@/assets/images/our services-top.png') center bottom no-repeat;
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -1653,7 +1673,11 @@ margin-top: -22px;
 .banner {
 filter: grayscale(100%); 
 background: linear-gradient(90deg, rgba(0,0,0,0.742734593837535) 56%, rgba(0,0,0,0.7399334733893557) 56%),
+<<<<<<< HEAD
  url('assets/images/key features-banner.png') center/cover; 
+=======
+url('@/assets/images/key_features-banner.png') center / cover;
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 background-size: cover;
 color: white;
 padding: 25px 30px;
@@ -1809,7 +1833,11 @@ font-weight: bold;
 .banner-2 {
 filter: grayscale(100%); 
 background: linear-gradient(90deg, rgba(0,0,0,0.742734593837535) 56%, rgba(0,0,0,0.7399334733893557) 56%),
+<<<<<<< HEAD
 url('assets/images/benefits-banner.png') center/cover; 
+=======
+url('@/assets/images/benefits-banner.png') center/cover; 
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 background-size: cover;
 color: white;
 padding: 25px 30px;
@@ -2067,7 +2095,11 @@ height: 336px;
 
 .about-img::before {
 content: '';
+<<<<<<< HEAD
 background: url('assets/images/about-us.png') center bottom no-repeat;
+=======
+background: url('@/assets/images/about-us.png') center bottom no-repeat;
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -2530,7 +2562,11 @@ a:focus {
   left: 0;
   right: 0;
   bottom: 0;
+<<<<<<< HEAD
   background-image: url('assets/images/project-detail.png');
+=======
+  background-image: url('@/assets/images/project-detail.png');
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
   background-size: cover;
   background-repeat: no-repeat;
   filter: grayscale(100%);
@@ -2698,7 +2734,11 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
+<<<<<<< HEAD
 background-image: url('assets/images/bid-calender.png');
+=======
+background-image: url('@/assets/images/bid-calender.png');
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 background-size: cover;
 background-repeat: no-repeat;
 filter: grayscale(100%);
@@ -2873,7 +2913,11 @@ height: 336px;
 
 .faq-img::before {
 content: '';
+<<<<<<< HEAD
 background:  url('assets/images/Faq.png') center bottom no-repeat;
+=======
+background:  url('@/assets/images/Faq.png') center bottom no-repeat;
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -3199,7 +3243,11 @@ height: 336px;
 
 .blog-img::before {
 content: '';
+<<<<<<< HEAD
 background:  url('assets/images/blog.png') center bottom no-repeat;
+=======
+background:  url('@/assets/images/blog.png') center bottom no-repeat;
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -3511,7 +3559,11 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
+<<<<<<< HEAD
 background:  url('assets/images/project-insights-01.png') center bottom no-repeat;
+=======
+background:  url('@/assets/images/project-insights-01.png') center bottom no-repeat;
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 background-size: cover;
 background-repeat: no-repeat;
 filter: grayscale(100%);
@@ -3572,7 +3624,11 @@ height: 336px;
 
 .project-insights-top-img::before {
 content: '';
+<<<<<<< HEAD
 background:  url('assets/images/project-insights.png') center bottom no-repeat;
+=======
+background:  url('@/assets/images/project-insights.png') center bottom no-repeat;
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -3779,7 +3835,11 @@ height: 336px;
 
 .testimonialtop-img::before {
 content: '';
+<<<<<<< HEAD
 background:  url('assets/images/testimonials.png') center bottom no-repeat;
+=======
+background:  url('@/assets/images/testimonials.png') center bottom no-repeat;
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -3967,7 +4027,11 @@ height: 336px;
 
 .privacytop-img::before {
 content: '';
+<<<<<<< HEAD
 background:  url('assets/images/privacy.jpg') center bottom no-repeat;
+=======
+background:  url('@/assets/images/privacy.jpg') center bottom no-repeat;
+>>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 filter: grayscale(100%);
 position: absolute;
 top: 0;
