@@ -1,11 +1,6 @@
 import React, { useEffect } from 'react';
-<<<<<<< HEAD
 import { tsParticles } from 'https://cdn.jsdelivr.net/npm/@tsparticles/engine@3.7.1/+esm';
 import { loadAll } from 'https://cdn.jsdelivr.net/npm/@tsparticles/all@3.7.1/+esm';
-=======
-import { tsParticles } from '@tsparticles/engine';
-import { loadAll } from '@tsparticles/all';
->>>>>>> 39c82b105be144b5ee5dec62cbbdfee5afc93b92
 import { useMediaQuery } from 'react-responsive';
 
 
