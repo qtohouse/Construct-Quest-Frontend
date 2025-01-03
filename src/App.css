@@ -410,7 +410,7 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
-background-image: url('./images/register.png');
+background-image: url('@/assets/images/register.png');
 background-size: cover;
 background-repeat: no-repeat;
 filter: grayscale(100%);
@@ -641,7 +641,7 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
-background-image: url('./images/forget password.png');
+background-image: url('@/assets/images/forget password.png');
 background-size: cover;
 background-repeat: no-repeat;
 filter: grayscale(100%);
@@ -892,7 +892,7 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
-background-image: url('./images/Login.png');
+background-image: url('@/assets/images/Login.png');
 background-size: cover;
 background-repeat: no-repeat;
 filter: grayscale(100%);
@@ -1093,7 +1093,7 @@ font-weight: 700;
 
 .contact-img::before {
   content: '';
-  background:  url('./images/contact-us.png') center bottom no-repeat;
+  background:  url('@/assets/images/contact-us.png') center bottom no-repeat;
   filter: grayscale(100%);
   position: absolute;
   top: 0;
@@ -1188,7 +1188,7 @@ height: 270px;
 
 .services-img::before {
 content: '';
-background: url('./images/our services-top.png') center bottom no-repeat;
+background: url('@/assets/images/our services-top.png') center bottom no-repeat;
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -1653,7 +1653,7 @@ margin-top: -22px;
 .banner {
 filter: grayscale(100%); 
 background: linear-gradient(90deg, rgba(0,0,0,0.742734593837535) 56%, rgba(0,0,0,0.7399334733893557) 56%),
- url('./images/key features-banner.png') center/cover; 
+url('@/assets/images/key_features-banner.png') center / cover;
 background-size: cover;
 color: white;
 padding: 25px 30px;
@@ -1809,7 +1809,7 @@ font-weight: bold;
 .banner-2 {
 filter: grayscale(100%); 
 background: linear-gradient(90deg, rgba(0,0,0,0.742734593837535) 56%, rgba(0,0,0,0.7399334733893557) 56%),
-url('./images/benefits-banner.png') center/cover; 
+url('@/assets/images/benefits-banner.png') center/cover; 
 background-size: cover;
 color: white;
 padding: 25px 30px;
@@ -2067,7 +2067,7 @@ height: 336px;
 
 .about-img::before {
 content: '';
-background: url('./images/about-us.png') center bottom no-repeat;
+background: url('@/assets/images/about-us.png') center bottom no-repeat;
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -2530,7 +2530,7 @@ a:focus {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('./images/project-detail.png');
+  background-image: url('@/assets/images/project-detail.png');
   background-size: cover;
   background-repeat: no-repeat;
   filter: grayscale(100%);
@@ -2698,7 +2698,7 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
-background-image: url('./images/bid-calender.png');
+background-image: url('@/assets/images/bid-calender.png');
 background-size: cover;
 background-repeat: no-repeat;
 filter: grayscale(100%);
@@ -2873,7 +2873,7 @@ height: 336px;
 
 .faq-img::before {
 content: '';
-background:  url('./images/Faq.png') center bottom no-repeat;
+background:  url('@/assets/images/Faq.png') center bottom no-repeat;
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -3199,7 +3199,7 @@ height: 336px;
 
 .blog-img::before {
 content: '';
-background:  url('./images/blog.png') center bottom no-repeat;
+background:  url('@/assets/images/blog.png') center bottom no-repeat;
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -3511,7 +3511,7 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
-background:  url('./images/project-insights-01.png') center bottom no-repeat;
+background:  url('@/assets/images/project-insights-01.png') center bottom no-repeat;
 background-size: cover;
 background-repeat: no-repeat;
 filter: grayscale(100%);
@@ -3572,7 +3572,7 @@ height: 336px;
 
 .project-insights-top-img::before {
 content: '';
-background:  url('./images/project-insights.png') center bottom no-repeat;
+background:  url('@/assets/images/project-insights.png') center bottom no-repeat;
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -3779,7 +3779,7 @@ height: 336px;
 
 .testimonialtop-img::before {
 content: '';
-background:  url('./images/testimonials.png') center bottom no-repeat;
+background:  url('@/assets/images/testimonials.png') center bottom no-repeat;
 filter: grayscale(100%);
 position: absolute;
 top: 0;
@@ -3967,7 +3967,7 @@ height: 336px;
 
 .privacytop-img::before {
 content: '';
-background:  url('./images/privacy.jpg') center bottom no-repeat;
+background:  url('@/assets/images/privacy.jpg') center bottom no-repeat;
 filter: grayscale(100%);
 position: absolute;
 top: 0;
