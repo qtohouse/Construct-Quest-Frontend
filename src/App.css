@@ -4066,7 +4066,7 @@ font-size: 2.5rem;
 
 .particle-container a {
 position: relative; /* Adjusted to ensure proper positioning */
-top: 55%;
+top: 60%;
 }
 
 .particle-container a button {
