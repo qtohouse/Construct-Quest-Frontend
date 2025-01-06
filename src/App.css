@@ -1655,7 +1655,7 @@ margin-top: -22px;
 .banner {
 filter: grayscale(100%); 
 background: linear-gradient(90deg, rgba(0,0,0,0.742734593837535) 56%, rgba(0,0,0,0.7399334733893557) 56%),
- url('assets/images/key features-banner.png') center/cover; 
+ url('assets/images/key_features-banner.png') center/cover; 
 background-size: cover;
 color: white;
 padding: 25px 30px;
