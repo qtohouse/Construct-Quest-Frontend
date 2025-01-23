@@ -1175,7 +1175,7 @@ font-weight: 700;
 
 .contact h2 {
     font-size: 40px; /* Further adjust font size for very small screens */
-    padding-top: 100px; /* Further adjust padding for very small screens */
+    padding-top: 150px; /* Further adjust padding for very small screens */
 }
 }
 /*Contact Us Css End */
@@ -3078,7 +3078,7 @@ font-weight: 900;
 
 .faq h2 {
     font-size: 40px !important; /* Further adjust font size for very small screens */
-    padding-top: 100px !important; /* Further adjust padding for very small screens */
+    padding-top: 150px !important; /* Further adjust padding for very small screens */
  
 }
 }
@@ -3113,7 +3113,7 @@ border-radius: 15px;
 
 .blog h2 {
     font-size: 40px !important; /* Further adjust font size for very small screens */
-    padding-top: 100px !important; /* Further adjust padding for very small screens */
+    padding-top: 150px !important; /* Further adjust padding for very small screens */
  
 }
 }
@@ -3759,7 +3759,7 @@ font-weight: 800;
 
 .project-insights-top h2 {
     font-size: 39px; /* Further adjust font size for very small screens */
-    padding-top: 110px; /* Further adjust padding for very small screens */
+    padding-top: 150px; /* Further adjust padding for very small screens */
   }
 }
 
@@ -3934,7 +3934,7 @@ border-color:#fdc022;
 
 .testimonialtop h2 {
     font-size: 40px; /* Further adjust font size for very small screens */
-    padding-top: 110px; /* Further adjust padding for very small screens */
+    padding-top: 150px; /* Further adjust padding for very small screens */
 }
 }
 
@@ -4288,6 +4288,17 @@ to {
     z-index: 2;
     position: relative;
     }
+    @media (max-width: 480px) {
+      .pricing {
+          font-size: 24px !important; /* Further adjust font size for very small screens */
+      }
+      
+      .pricing h2 {
+          font-size: 40px !important; /* Further adjust font size for very small screens */
+          padding-top: 150px !important; /* Further adjust padding for very small screens */
+       
+      }
+      }
 .price-tabs {
   background-color: #fff;
   -webkit-box-shadow: 0 5px 20px 0 rgba(39, 39, 39, 0.1);
