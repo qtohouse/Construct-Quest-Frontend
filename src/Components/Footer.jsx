@@ -126,7 +126,7 @@ const Footer = () => {
       <div className="row justify-content-center">
         <div className="col-md-12 text-center">
           <p>
-            © 2024
+            © 2025
             <a href="/">Construct Quest</a>, All Right Reserved.
           </p>
         </div>

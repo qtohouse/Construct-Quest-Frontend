@@ -33,6 +33,7 @@ import Register from "./Components/Register";
 import Testimonials from "./Components/Testimonials";
 import WhatWeDo from "./Components/WhatWeDo";
 import ParticleEffect from './Components/ParticleEffect';
+import PricingPlan from "./Components/PricingPlan";
 
 function App() {
   const [count, setCount] = useState(0)
@@ -68,6 +69,7 @@ function App() {
         <Route path="/register" element={<Register />} />
         <Route path="/testimonials" element={<Testimonials />} />
         <Route path="/whatwedo" element={<WhatWeDo />} />
+        <Route path="/pricingplan" element={<PricingPlan />} />
       </Routes>
       <Footer />
     </BrowserRouter>

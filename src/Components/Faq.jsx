@@ -5,8 +5,9 @@ import React from "react";
 const Faq = () => {
   return (
 
+
 <>
-<>
+ {/* Faq Start */}
   {/* <section class="bg-light"> */}
   <div className="faq faq-img">
     <div className="color-gradient-faq">
@@ -261,10 +262,10 @@ const Faq = () => {
   </div>
   <br />
   <br />
-  {/* </section> */}
+ {/* Faq End */}
 </>
 
-</>
+
   );
 }
 export default Faq;

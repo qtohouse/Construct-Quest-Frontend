@@ -178,6 +178,9 @@ const Navbar = () => {
                       <NavLink to="/testimonials" className="dropdown-item">
                         Testimonials
                       </NavLink>
+                      <NavLink to="/pricingplan" className="dropdown-item">
+                        Pricing Plans
+                      </NavLink>
                     </div>
                   </div>
                   <NavLink

@@ -67,6 +67,7 @@ function ParticleEffect() {
         <button type='submit'>Register Now</button>
       </a>
     </div>
+    
   );
 }
 
